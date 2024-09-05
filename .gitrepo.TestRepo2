@@ -7,6 +7,6 @@
 	remote = git@github.com:TestForStarry/TestRepo2.git
 	branch = main
 	commit = 164fc2e2f03e7108c1724a003f4af36cc04f2159
-	parent: 9d58b331b93becef231427d336b0f8a064ea11d7
+	parent: 82de6d20f6cf7013f1064343726556741862c38a
 	method = merge
 	cmdver = 0.4.9
